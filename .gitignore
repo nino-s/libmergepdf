@@ -2,3 +2,13 @@ build
 vendor
 composer.phar
 composer.lock
+
+# System files
+.DS_Store
+
+# NetBeans-Settings
+/nbproject/
+
+# IDEs
+.idea/*
+*.iml
