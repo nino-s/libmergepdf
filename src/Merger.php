@@ -9,7 +9,7 @@
 
 namespace iio\libmergepdf;
 
-use fpdi\FPDI;
+use tcpdi as FPDI;
 use RuntimeException;
 use Traversable;
 use Symfony\Component\Finder\Finder;
